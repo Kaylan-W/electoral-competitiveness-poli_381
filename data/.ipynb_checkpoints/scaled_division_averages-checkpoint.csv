@@ -1,0 +1,256 @@
+"candidate_name","division","V1","election_year"
+"Donald Trump","East North Central",0.0772319775182514,2016
+"Gary Johnson","East North Central",-2.14950310540569,2016
+"Hillary Rodham Clinton","East North Central",0.477576104283782,2016
+"Donald Trump","East South Central",1.07434976981948,2016
+"Gary Johnson","East South Central",-2.352600699294,2016
+"Hillary Rodham Clinton","East South Central",-0.134908528383409,2016
+"Donald Trump","Middle Atlantic",-0.043382047656341,2016
+"Gary Johnson","Middle Atlantic",-2.27167902768447,2016
+"Hillary Rodham Clinton","Middle Atlantic",0.807037781533488,2016
+"Donald Trump","Mountain",0.404442137499414,2016
+"Gary Johnson","Mountain",-1.99825317387812,2016
+"Hillary Rodham Clinton","Mountain",-0.119606992031776,2016
+"Donald Trump","New England",-0.267748567062878,2016
+"Gary Johnson","New England",-2.1580286780236,2016
+"Hillary Rodham Clinton","New England",0.6321246285782,2016
+"Donald Trump","Pacific",-0.0962150755384895,2016
+"Gary Johnson","Pacific",-2.13483808510716,2016
+"Hillary Rodham Clinton","Pacific",0.595366136613007,2016
+"Donald Trump","South Atlantic",0.29601187367869,2016
+"Gary Johnson","South Atlantic",-2.2455354998528,2016
+"Hillary Rodham Clinton","South Atlantic",0.45118440652794,2016
+"Donald Trump","West North Central",0.399551946560394,2016
+"Gary Johnson","West North Central",-2.06126924515452,2016
+"Hillary Rodham Clinton","West North Central",0.104873784095545,2016
+"Donald Trump","West South Central",0.777908905498982,2016
+"Gary Johnson","West South Central",-2.27597900863282,2016
+"Hillary Rodham Clinton","West South Central",-0.205960652021479,2016
+"Barack Obama","East North Central",0.718353849631571,2012
+"Mitt Romney","East North Central",0.39775079229497,2012
+"Barack Obama","East South Central",0.0249605183028213,2012
+"Mitt Romney","East South Central",0.887492805412025,2012
+"Barack Obama","Middle Atlantic",1.00982993345496,2012
+"Mitt Romney","Middle Atlantic",0.080904353634565,2012
+"Barack Obama","Mountain",0.396509360396189,2012
+"Mitt Romney","Mountain",0.804831551866177,2012
+"Barack Obama","New England",1.10524648197579,2012
+"Mitt Romney","New England",0.0186497483839389,2012
+"Barack Obama","Pacific",1.02382035060297,2012
+"Mitt Romney","Pacific",0.111681408271626,2012
+"Barack Obama","South Atlantic",0.57055037442643,2012
+"Mitt Romney","South Atlantic",0.628056094716456,2012
+"Barack Obama","West North Central",0.127472700830086,2012
+"Mitt Romney","West North Central",0.809485802006253,2012
+"Barack Obama","West South Central",-0.306812792026706,2012
+"Mitt Romney","West South Central",1.34755434518874,2012
+"Barack Obama","East North Central",0.739394848252939,2008
+"John McCain","East North Central",0.321294783873402,2008
+"Barack Obama","East South Central",-0.0669796199901817,2008
+"John McCain","East South Central",1.21535250927832,2008
+"Barack Obama","Middle Atlantic",0.834525798076095,2008
+"John McCain","Middle Atlantic",0.167873431683522,2008
+"Barack Obama","Mountain",0.171875072260011,2008
+"John McCain","Mountain",0.884118497522341,2008
+"Barack Obama","New England",1.04344698292723,2008
+"John McCain","New England",-0.0371726467021166,2008
+"Barack Obama","Pacific",0.947618044097985,2008
+"John McCain","Pacific",0.173769941463828,2008
+"Barack Obama","South Atlantic",0.484631526205359,2008
+"John McCain","South Atlantic",0.623775014804166,2008
+"Barack Obama","West North Central",0.378666066231991,2008
+"John McCain","West North Central",0.65141129902271,2008
+"Barack Obama","West South Central",-0.168909933561741,2008
+"John McCain","West South Central",1.12954202270441,2008
+"George W. Bush","East North Central",0.601939098457518,2004
+"John Kerry","East North Central",0.486879797705133,2004
+"George W. Bush","East South Central",1.20299685523635,2004
+"John Kerry","East South Central",-0.040899627402589,2004
+"George W. Bush","Middle Atlantic",0.272888821266324,2004
+"John Kerry","Middle Atlantic",0.709072948438303,2004
+"George W. Bush","Mountain",1.07081773599828,2004
+"John Kerry","Mountain",-0.0703952822437386,2004
+"George W. Bush","New England",-0.0141119933527222,2004
+"John Kerry","New England",0.934056700949376,2004
+"George W. Bush","Pacific",0.494869895349601,2004
+"John Kerry","Pacific",0.570977835085936,2004
+"George W. Bush","South Atlantic",0.704711572185872,2004
+"John Kerry","South Atlantic",0.444902179181529,2004
+"George W. Bush","West North Central",0.882302255493045,2004
+"John Kerry","West North Central",0.258235155083514,2004
+"George W. Bush","West South Central",1.07716950249703,2004
+"John Kerry","West South Central",-0.081645661627564,2004
+"Al Gore","East North Central",0.141715647570197,2000
+"George W. Bush","East North Central",0.545079304353787,2000
+"Ralph Nader","East North Central",-2.40852038488228,2000
+"Al Gore","East South Central",0.187605216566315,2000
+"George W. Bush","East South Central",0.811211941129829,2000
+"Ralph Nader","East South Central",-2.62528891861334,2000
+"Al Gore","Middle Atlantic",0.549502234118966,2000
+"George W. Bush","Middle Atlantic",0.0922572285246617,2000
+"Ralph Nader","Middle Atlantic",-2.34208365608729,2000
+"Al Gore","Mountain",-0.265157175238267,2000
+"George W. Bush","Mountain",0.835111023417458,2000
+"Ralph Nader","Mountain",-2.46625690650232,2000
+"Al Gore","New England",0.45398049366445,2000
+"George W. Bush","New England",-0.0892772336049073,2000
+"Ralph Nader","New England",-2.28867567264694,2000
+"Al Gore","Pacific",0.265639437763297,2000
+"George W. Bush","Pacific",0.128288664933321,2000
+"Ralph Nader","Pacific",-2.2434855992067,2000
+"Al Gore","South Atlantic",0.253565679043598,2000
+"George W. Bush","South Atlantic",0.616136834559105,2000
+"Ralph Nader","South Atlantic",-2.51249008002157,2000
+"Al Gore","West North Central",-0.052919957241154,2000
+"George W. Bush","West North Central",0.643441625833537,2000
+"Ralph Nader","West North Central",-2.51449715796796,2000
+"Al Gore","West South Central",-0.41992069867834,2000
+"George W. Bush","West South Central",1.11152183549502,2000
+"Ralph Nader","West South Central",-2.58745694676998,2000
+"Bill Clinton","East North Central",0.569856089154532,1996
+"Bob Dole","East North Central",-0.12172821774828,1996
+"H. Ross Perot","East North Central",-1.95964687900393,1996
+"Bill Clinton","East South Central",0.249705721555864,1996
+"Bob Dole","East South Central",0.165778521825498,1996
+"H. Ross Perot","East South Central",-2.08863842833176,1996
+"Bill Clinton","Middle Atlantic",0.779716187904251,1996
+"Bob Dole","Middle Atlantic",-0.347825534320597,1996
+"H. Ross Perot","Middle Atlantic",-1.86166971068224,1996
+"Bill Clinton","Mountain",0.156339605817982,1996
+"Bob Dole","Mountain",0.234761736301594,1996
+"H. Ross Perot","Mountain",-2.10059116486143,1996
+"Bill Clinton","New England",1.07106940475113,1996
+"Bob Dole","New England",-0.449001990291828,1996
+"H. Ross Perot","New England",-2.11971195067455,1996
+"Bill Clinton","Pacific",0.63760836841864,1996
+"Bob Dole","Pacific",-0.220092129146618,1996
+"H. Ross Perot","Pacific",-2.1898925875167,1996
+"Bill Clinton","South Atlantic",0.640585981651213,1996
+"Bob Dole","South Atlantic",0.0210840568764536,1996
+"H. Ross Perot","South Atlantic",-2.26497371042761,1996
+"Bill Clinton","West North Central",0.349984778422805,1996
+"Bob Dole","West North Central",0.0477524379242274,1996
+"H. Ross Perot","West North Central",-2.08578749795473,1996
+"Bill Clinton","West South Central",0.354448727054162,1996
+"Bob Dole","West South Central",0.154502642782968,1996
+"H. Ross Perot","West South Central",-2.15071943092042,1996
+"Bill Clinton","East North Central",-0.16198455467912,1992
+"George Bush","East North Central",-0.0226059128579214,1992
+"H. Ross Perot","East North Central",-1.22916399282358,1992
+"Bill Clinton","East South Central",-0.180678343897861,1992
+"George Bush","East South Central",0.43206507358475,1992
+"H. Ross Perot","East South Central",-1.62510446524601,1992
+"Bill Clinton","Middle Atlantic",-0.188613052650768,1992
+"George Bush","Middle Atlantic",-0.101475477607908,1992
+"H. Ross Perot","Middle Atlantic",-1.24074240668389,1992
+"Bill Clinton","Mountain",-0.590493984205868,1992
+"George Bush","Mountain",-0.227280243032845,1992
+"H. Ross Perot","Mountain",-0.801405015065916,1992
+"Bill Clinton","New England",-0.26053580232819,1992
+"George Bush","New England",-0.436349764870606,1992
+"H. Ross Perot","New England",-1.03241080341826,1992
+"Bill Clinton","Pacific",-0.400810792055658,1992
+"George Bush","Pacific",-0.296156287841552,1992
+"H. Ross Perot","Pacific",-0.58398929411055,1992
+"Bill Clinton","South Atlantic",-0.301134935861288,1992
+"George Bush","South Atlantic",0.0957121791722539,1992
+"H. Ross Perot","South Atlantic",-1.1576192804723,1992
+"Bill Clinton","West North Central",-0.295133407728535,1992
+"George Bush","West North Central",0.0030835141912654,1992
+"H. Ross Perot","West North Central",-0.929045106864709,1992
+"Bill Clinton","West South Central",-0.0352900246537127,1992
+"George Bush","West South Central",0.192657773305207,1992
+"H. Ross Perot","West South Central",-0.974969885954258,1992
+"George Bush","East North Central",0.240672419847966,1988
+"Michael S. Dukakis","East North Central",0.506418461417873,1988
+"George Bush","East South Central",0.77238717130433,1988
+"Michael S. Dukakis","East South Central",0.124485014213883,1988
+"George Bush","Middle Atlantic",0.198637838628114,1988
+"Michael S. Dukakis","Middle Atlantic",0.344017530867584,1988
+"George Bush","Mountain",0.7088547761047,1988
+"Michael S. Dukakis","Mountain",0.124300026854575,1988
+"George Bush","New England",0.177148398553161,1988
+"Michael S. Dukakis","New England",0.718551813681116,1988
+"George Bush","Pacific",0.337743651098063,1988
+"Michael S. Dukakis","Pacific",0.680124158623913,1988
+"George Bush","South Atlantic",0.607940921629473,1988
+"Michael S. Dukakis","South Atlantic",0.306602844736177,1988
+"George Bush","West North Central",0.12532266136629,1988
+"Michael S. Dukakis","West North Central",0.731329083637389,1988
+"George Bush","West South Central",0.754736335512711,1988
+"Michael S. Dukakis","West South Central",0.328221574079707,1988
+"Ronald Reagan","East North Central",1.02972478200485,1984
+"Walter F. Mondale","East North Central",0.0213399589765298,1984
+"Ronald Reagan","East South Central",1.02369105281333,1984
+"Walter F. Mondale","East South Central",0.159491762678728,1984
+"Ronald Reagan","Middle Atlantic",1.11525168783896,1984
+"Walter F. Mondale","Middle Atlantic",-0.133862513342986,1984
+"Ronald Reagan","Mountain",1.43603110952282,1984
+"Walter F. Mondale","Mountain",-0.564620743498999,1984
+"Ronald Reagan","New England",1.14233009745018,1984
+"Walter F. Mondale","New England",0.02371754114773,1984
+"Ronald Reagan","Pacific",0.923500836085029,1984
+"Walter F. Mondale","Pacific",-0.113595254238321,1984
+"Ronald Reagan","South Atlantic",1.2099100772652,1984
+"Walter F. Mondale","South Atlantic",-0.109254708583957,1984
+"Ronald Reagan","West North Central",0.905843244074565,1984
+"Walter F. Mondale","West North Central",0.0918093318090902,1984
+"Ronald Reagan","West South Central",1.5498856807287,1984
+"Walter F. Mondale","West South Central",-0.466646916876833,1984
+"Jimmy Carter","East North Central",0.268898754115543,1980
+"John B. Anderson","East North Central",-1.6205337020427,1980
+"Ronald Reagan","East North Central",-0.07161034531413,1980
+"Jimmy Carter","East South Central",0.386557372307952,1980
+"John B. Anderson","East South Central",-2.51896089780834,1980
+"Ronald Reagan","East South Central",0.440405448451124,1980
+"Jimmy Carter","Middle Atlantic",-0.449378284249532,1980
+"John B. Anderson","Middle Atlantic",-1.55568339302191,1980
+"Ronald Reagan","Middle Atlantic",0.049994676316927,1980
+"Jimmy Carter","Mountain",-0.966726248376192,1980
+"John B. Anderson","Mountain",-1.83919924618077,1980
+"Ronald Reagan","Mountain",0.643489197744659,1980
+"Jimmy Carter","New England",-0.855278684430062,1980
+"John B. Anderson","New England",-1.00026936231245,1980
+"Ronald Reagan","New England",-0.470218985275628,1980
+"Jimmy Carter","Pacific",-0.648257107828605,1980
+"John B. Anderson","Pacific",-1.35630142675821,1980
+"Ronald Reagan","Pacific",-0.0021494694229895,1980
+"Jimmy Carter","South Atlantic",0.538627611907276,1980
+"John B. Anderson","South Atlantic",-2.23758485791078,1980
+"Ronald Reagan","South Atlantic",-0.0194400333186476,1980
+"Jimmy Carter","West North Central",-0.483912909968086,1980
+"John B. Anderson","West North Central",-1.56408560935318,1980
+"Ronald Reagan","West North Central",0.113367175580559,1980
+"Jimmy Carter","West South Central",0.0329050687571208,1980
+"John B. Anderson","West South Central",-2.20589585951384,1980
+"Ronald Reagan","West South Central",0.494036882714555,1980
+"Gerald R. Ford","East North Central",0.406914399831423,1976
+"Jimmy Carter","East North Central",0.61695285827737,1976
+"Gerald R. Ford","Middle Atlantic",0.332247476979551,1976
+"Jimmy Carter","Middle Atlantic",0.204128781336368,1976
+"Gerald R. Ford","Mountain",0.753820017603142,1976
+"Jimmy Carter","Mountain",0.0305658577944076,1976
+"Gerald R. Ford","New England",0.30049707011968,1976
+"Jimmy Carter","New England",0.670880759905355,1976
+"Gerald R. Ford","Pacific",-0.191348062897002,1976
+"Jimmy Carter","Pacific",0.450571541157088,1976
+"Gerald R. Ford","South Atlantic",-0.356756746501596,1976
+"Jimmy Carter","South Atlantic",0.259709359177104,1976
+"Gerald R. Ford","West North Central",0.471955127981233,1976
+"Jimmy Carter","West North Central",0.412136239253117,1976
+"George S. McGovern","East North Central",-0.397181769645275,1972
+"Richard M. Nixon","East North Central",1.36088381804857,1972
+"George S. McGovern","East South Central",-0.402924537593863,1972
+"Richard M. Nixon","East South Central",0.77338541641018,1972
+"George S. McGovern","Middle Atlantic",-0.591135384099104,1972
+"Richard M. Nixon","Middle Atlantic",1.0558348868551,1972
+"George S. McGovern","New England",-0.307184031055488,1972
+"Richard M. Nixon","New England",1.21292040169351,1972
+"George S. McGovern","Pacific",0.0880119629912523,1972
+"Richard M. Nixon","Pacific",0.810835882884343,1972
+"George S. McGovern","South Atlantic",-0.978800571728517,1972
+"Richard M. Nixon","South Atlantic",1.98926684991873,1972
+"George S. McGovern","West North Central",-0.972122786585631,1972
+"Richard M. Nixon","West North Central",1.53767949297165,1972
+"George S. McGovern","West South Central",-1.14512007657908,1972
+"Richard M. Nixon","West South Central",2.64577261843403,1972
